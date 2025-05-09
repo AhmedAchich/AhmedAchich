@@ -1,7 +1,7 @@
 # Ahmed-Achich
 # 💫 About Me:
  🔬 I'm a Computer Engineering & IOT Student at [Faculty of Science of Sfax](https://fss.rnu.tn/)<br>
-🔭 I’m currently working on a House Automation System <br>🌱 I’m currently learning Mobile App Dev and Microcontrollers<br>⚡ Fun fact I love a Astronomy and RocketScience
+🔭 I’m currently working on a IoT Gas System <br>🌱 I’m currently learning Microcontrollers<br>⚡ Fun fact I love a Astronomy and RocketScience
 
 
 ## 🌐 Socials:
